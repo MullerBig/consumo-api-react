@@ -19,6 +19,7 @@ const NewPost = () => {
         })
 
         navigate("/");
+        alert('Funcionou!')
     }
 
     return (
